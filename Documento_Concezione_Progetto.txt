@@ -1,0 +1,47 @@
+
+DOCUMENTO DI CONCEZIONE ORIGINALE DI PROGETTO
+Data: 23-11-2024
+Autore: [Inserisci il tuo nome completo]
+
+Titolo del progetto
+[Assistente Virtuale Universale per l'Apprendimento e le Attività Pratiche]
+
+Descrizione del progetto
+Il progetto è concepito come una piattaforma universale accessibile tramite dispositivi comuni (webcam o fotocamera del telefono), progettata per supportare le persone nell'apprendimento e nello svolgimento di attività pratiche in tempo reale. L'idea è quella di fornire un'assistenza simile a quella di un esperto, ma disponibile da casa, in modo semplice e interattivo.
+
+Obiettivo principale
+Aiutare le persone a:
+- Imparare nuove abilità (ad esempio suonare uno strumento, cucinare, disegnare).
+- Svolgere compiti pratici con supporto passo dopo passo.
+- Offrire accesso inclusivo a persone con disabilità o difficoltà specifiche.
+
+Funzionalità previste
+1. Analisi in tempo reale:
+   - Il sistema utilizza la webcam per monitorare azioni o disegni.
+   - Fornisce feedback immediato per correggere errori o migliorare l'esecuzione.
+
+2. Adattabilità:
+   - Applicabile a diversi contesti, come musica, cucina, disegno, ecc.
+   - Integra guida e supporto visivo personalizzato.
+
+3. Integrazione tecnologica:
+   - Utilizzo di intelligenza artificiale per l'analisi e il feedback.
+   - Compatibilità con strumenti fisici (tablet grafici, sensori).
+
+Esempio personale di utilizzo
+L’autore immagina l’uso del sistema per imparare a suonare la chitarra da casa, senza necessità di un insegnante fisico. Il sistema guiderebbe il principiante nei primi accordi, fornendo correzioni e mantenendo il tempo durante l'esercizio.
+
+Risultati attesi
+1. Creazione di una piattaforma universale e inclusiva.
+2. Miglioramento dell'accesso a competenze e attività pratiche per tutte le fasce di pubblico.
+3. Espansione del progetto in contesti educativi e formativi.
+
+Firma dell'autore
+Nome e Cognome: [Inserisci il tuo nome]
+Firma: [Firma a mano o digitale]
+
+Nota:
+Puoi salvare questo documento come PDF e:
+- Inviarlo a te stesso tramite PEC (se la possiedi).
+- Caricarlo su Google Drive, Dropbox, o un repository Git con una data certa.
+- Allegarlo a un'email con un destinatario verificato (ad esempio, il tuo indirizzo personale).
